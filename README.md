@@ -39,3 +39,7 @@ DATABASE_URL=postgresql://username:password@host:port/database
 ## License
 
 MIT
+
+## Sample Data
+
+The repository includes truncated sample data in the `sample_data` directory. This data can be used to test the application before connecting to your own data source.
